@@ -1,0 +1,6 @@
+shiny
+matplotlib
+faicons
+pandas
+plotly
+shinywidgets
